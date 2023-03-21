@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://cyberaniket.me/</loc>
+  <lastmod>2023-03-21T11:47:47+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://cyberaniket.me/index.html</loc>
+  <lastmod>2023-03-21T11:47:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cyberaniket.me/about.html</loc>
+  <lastmod>2023-03-21T11:47:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cyberaniket.me/service.html</loc>
+  <lastmod>2023-03-21T11:47:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cyberaniket.me/project.html</loc>
+  <lastmod>2023-03-21T11:47:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cyberaniket.me/team.html</loc>
+  <lastmod>2023-03-21T11:47:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cyberaniket.me/testimonial.html</loc>
+  <lastmod>2023-03-21T11:47:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cyberaniket.me/404.html</loc>
+  <lastmod>2023-03-21T11:47:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cyberaniket.me/contact.html</loc>
+  <lastmod>2023-03-21T11:47:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
